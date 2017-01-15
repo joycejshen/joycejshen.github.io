@@ -138,6 +138,10 @@ p {
   display: inline;
 }
 
+.ride .rideimg {
+  text-align: center;
+}
+
 .box {
   margin-top: 10px;
   padding-top: 0px;
