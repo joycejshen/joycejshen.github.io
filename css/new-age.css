@@ -134,6 +134,10 @@ p {
     background-color: #fd6852;
 }
 
+.instagram-media {
+  display: inline;
+}
+
 .box {
   margin-top: 10px;
   padding-top: 0px;
